@@ -38,13 +38,13 @@ fun WalletSection() {
         Column {
             Text(
                 text = "Wallet",
-                fontSize = 17.sp,
+                fontSize = 20.sp,
                 color = MaterialTheme.colorScheme.onBackground
             )
             Spacer(modifier = Modifier.height(8.dp))
             Text(
                 text = "KES 75,640",
-                fontSize = 24.sp,
+                fontSize = 36.sp,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onBackground
             )
